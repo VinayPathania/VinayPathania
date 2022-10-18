@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Spring,SpringBoot,Spring MVC**
 
-- 💬 Ask me about **Core Java and Database**
+- 💬 Ask me about **Backend**
 
 - 📫 How to reach me **vinaypathania2002@gmail.com**
 
