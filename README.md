@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://vinaypathania.github.io/](https://vinaypathania.github.io/)
 
-- 💬 Ask me about **Backend and SQL**
+- 💬 Ask me about **Backend and Database**
 
 - 📫 How to reach me **vinaypathania2002@gmail.com**
 
