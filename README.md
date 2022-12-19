@@ -1,35 +1,105 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/6c0f9b95746151.5e9ecde69599e.gif)
 
-<h1 align="center">Hi 👋, I'm Vinay Pathania</h1>
-<h3 align="center">I am a Backend developer who is passionate about making new backend application. I enjoy working with Spring frameworks and database.</h3>
+## Hey 👋, I'm Vinay Pathania!  
+  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinaypathania&label=Profile%20views&color=0e75b6&style=flat" alt="vinaypathania" /> </p>
+<a href="https://github.com/https://github.com/VinayPathania" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/https://twitter.com/VinayPathania16" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/vinay-pathania-646398233?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Be2FQEymkSIyyQq2MHhimhg%3D%3D" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+  
 
-- 🌱 I’m currently learning **Spring Security and AWS**
 
-- 👨‍💻 All of my projects are available at [https://vinaypathania.github.io/](https://vinaypathania.github.io/)
 
-- 💬 Ask me about **Backend and Database**
+### Glad to see you here!  
+I am a Backend developer passionate about making new backend applications and enjoy working with Spring frameworks and databases.  
+  
 
-- 📫 How to reach me **vinaypathania2002@gmail.com**
+<br/>  
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1wmrGIUjo_-BaaMjifePVDcOTR7RXJiKN/view?usp=sharing](https://drive.google.com/file/d/1wmrGIUjo_-BaaMjifePVDcOTR7RXJiKN/view?usp=sharing)
 
-- ⚡ Fun fact **I can make sad faces Happy**
+## Rapidfire  
+<table><tr><td valign="top" width="50%">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/vinaypathania16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vinaypathania16" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vinay-pathania-646398233?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bfxtuvnbxshu68fmw49y8ga%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[[[https://www.linkedin.com/in/vinay-pathania-646398233/](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BvQTsN2dbQSK37JkPCj0KSA%3D%3D)](https://www.linkedin.com/in/vinay-pathania-646398233/)](https://www.linkedin.com/in/vinay-pathania-646398233/)" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/vinaypathania201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/vinaypathania201" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/vinaypathania2002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/vinaypathania2002/" height="30" width="40" /></a>
-</p>
+- 😎 Portfolio: https://vinaypathania.github.io/  
+  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+- 🔭 I’m currently a student at Masai.  
+  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinaypathania&show_icons=true&locale=en&layout=compact" alt="vinaypathania" /></p>
+- 🌱 I’m currently Microservices and AWS  
+  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinaypathania&show_icons=true&locale=en" alt="vinaypathania" /></p>
+- ❓ Ask me about anything related to the Backend and related technologies  
+  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinaypathania&" alt="vinaypathania" /></p>
+- ⚡ Fun fact: I keep night shift swithed on at all times   
+  
+
+- 👉 Gmail: vinaypathania2002@gmail.com  
+
+
+</td><td valign="top" width="50%">
+
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Languages and Tools  
+<div align="center">  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" /></a>  
+<a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="25" /></a>  
+<a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="25" /></a>  
+</div>  
+
+<br/>  
+
+
+## Github Stats  
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=VinayPathania&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinayPathania&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
+<br/>  
+
+  
+
+<br/>  
+
+![Profile views counter](https://komarev.com/ghpvc/?username=VinayPathania&&style=flat-square)  
+  
+
+<br/>  
+
+  
+
+<br/>  
+
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
