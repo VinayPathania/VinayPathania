@@ -37,7 +37,7 @@ I am a Backend developer passionate about making new backend applications and en
 - 🔭 I’m currently a student at Masai.  
   
 
-- 🌱 I’m currently Microservices and AWS  
+- 🌱 I’m currently Learning Microservices and AWS  
   
 
 - ❓ Ask me about anything related to the Backend and related technologies  
