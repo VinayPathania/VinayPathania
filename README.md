@@ -28,13 +28,12 @@ Currently, I’m expanding my expertise in **Microservices architecture** and **
 
 ## Rapidfire 
 <table><tr><td valign="top" width="50%"> 
-  - 🔭 I’m currently a student at Masai. 
-  - 🌱 I’m currently Learning Microservices and AWS 
-  - ❓ Ask me about anything related to the Backend and related technologies 
-  - ⚡ Fun fact: I keep night shift swithed on at all times 
-  - 👉 Gmail: vinaypathania2002@gmail.com 
-</td>
-<td valign="top" width="50%">
+- 🔭 I’m currently a student at Masai. 
+- 🌱 I’m currently Learning Microservices and AWS 
+- ❓ Ask me about anything related to the Backend and related technologies 
+- ⚡ Fun fact: I keep night shift swithed on at all times 
+- 👉 Gmail: vinaypathania2002@gmail.com 
+</td><td valign="top" width="50%">
 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
