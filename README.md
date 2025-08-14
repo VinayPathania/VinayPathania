@@ -27,21 +27,12 @@ Currently, I’m expanding my expertise in **Microservices architecture** and **
 <br/>  
 
 ## Quick Facts  
-<table><tr><td valign="top" width="50%">
 
 - 💼 Java Backend Developer (2+ Years Experience)  
 - 🌱 Currently Learning **Microservices** & **AWS**  
 - 💬 Ask me about **Java, Spring Boot, Hibernate, REST APIs, Databases**  
 - ⚡ Fun fact: My night mode is always ON 🌙  
 - 📧 Email: **vinaypathania2002@gmail.com**  
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-</td></tr></table>  
 
 <br/>  
 
