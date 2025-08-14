@@ -26,13 +26,15 @@ Currently, I’m expanding my expertise in **Microservices architecture** and **
 
 <br/>  
 
-## Rapidfire 
-<table><tr><td valign="top" width="50%"> 
-- 🔭 I’m currently a student at Masai. 
-- 🌱 I’m currently Learning Microservices and AWS 
-- ❓ Ask me about anything related to the Backend and related technologies 
-- ⚡ Fun fact: I keep night shift swithed on at all times 
-- 👉 Gmail: vinaypathania2002@gmail.com 
+## Quick Facts  
+<table><tr><td valign="top" width="50%">
+
+- 💼 Java Backend Developer (2+ Years Experience)  
+- 🌱 Currently Learning **Microservices** & **AWS**  
+- 💬 Ask me about **Java, Spring Boot, Hibernate, REST APIs, Databases**  
+- ⚡ Fun fact: My night mode is always ON 🌙  
+- 📧 Email: **vinaypathania2002@gmail.com**  
+
 </td><td valign="top" width="50%">
 
 <div align="center">
