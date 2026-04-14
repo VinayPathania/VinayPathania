@@ -11,10 +11,7 @@
 </a>
 <a href="https://twitter.com/VinayPathania16" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/vinay-pathania-646398233/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+</a> 
 
 ---
 
@@ -32,7 +29,7 @@ Currently, I’m expanding my expertise in **Microservices architecture** and **
 - 💼 Software Engineer @ Anayat Global Works  
 - 🔭 Recently Built: A Full-Stack AI App (Spring Boot, React, PostgreSQL, Gemini API)  
 - 🌱 Currently Learning **Microservices** & **AWS** - 💬 Ask me about **Java, Spring Boot, Spring Security, REST APIs, Databases** - ⚡ Fun fact: My night mode is always ON 🌙  
-- 📧 Email: **vinaypathania2002@gmail.com** <br/>  
+- 📧 Email: **vinay.pathania.work@gmail.com** <br/>  
 
 ## 🛠️ Languages & Tools  
 <div align="center">  
