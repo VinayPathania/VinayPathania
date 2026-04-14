@@ -19,8 +19,9 @@
 ---
 
 ### Glad to see you here!  
-I’m a **Java Backend Developer** with **2+ years of professional experience** building scalable, secure, and high-performance applications using Java, Spring Boot, Hibernate, and relational databases.  
-I’m passionate about writing clean, maintainable code and continuously learning new backend technologies.  
+I’m a **Software Engineer** currently building scalable, secure, and high-performance applications at **Anayat Global Works**. While my core expertise lies in **Java, Spring Boot, and Relational Databases**, I actively develop full-stack architectures integrating modern frontend frameworks and AI APIs.  
+
+Recently, I architected a complete Full-Stack AI platform featuring secure stateless authentication (**Spring Security & JWT**) and complex data pipelines connecting **PostgreSQL**, REST APIs, **React**, and the **Google Gemini AI**.  
 
 Currently, I’m expanding my expertise in **Microservices architecture** and **AWS cloud services** to design distributed and resilient systems.  
 
@@ -28,13 +29,10 @@ Currently, I’m expanding my expertise in **Microservices architecture** and **
 
 ## Quick Facts  
 
-- 💼 Java Backend Developer (2+ Years Experience)  
-- 🌱 Currently Learning **Microservices** & **AWS**  
-- 💬 Ask me about **Java, Spring Boot, Hibernate, REST APIs, Databases**  
-- ⚡ Fun fact: My night mode is always ON 🌙  
-- 📧 Email: **vinaypathania2002@gmail.com**  
-
-<br/>  
+- 💼 Software Engineer @ Anayat Global Works  
+- 🔭 Recently Built: A Full-Stack AI App (Spring Boot, React, PostgreSQL, Gemini API)  
+- 🌱 Currently Learning **Microservices** & **AWS** - 💬 Ask me about **Java, Spring Boot, Spring Security, REST APIs, Databases** - ⚡ Fun fact: My night mode is always ON 🌙  
+- 📧 Email: **vinaypathania2002@gmail.com** <br/>  
 
 ## 🛠️ Languages & Tools  
 <div align="center">  
@@ -42,7 +40,8 @@ Currently, I’m expanding my expertise in **Microservices architecture** and **
 <a href="https://spring.io/projects/spring-boot" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="75" /></a>  
 <a href="https://hibernate.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/hibernate.svg" alt="Hibernate" height="75" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="75" /></a>  
-<a href="https://www.oracle.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="75" /></a>  
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="75" /></a>
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="75" /></a>
 <a href="https://www.w3.org/html/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="75" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="75" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="75" /></a>  
